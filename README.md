@@ -1,1 +1,1 @@
-# Claude-Course
+# QA practice
